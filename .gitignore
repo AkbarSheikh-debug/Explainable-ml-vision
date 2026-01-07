@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# ML artifacts
+models/*.pth
+models/*.pt
+models/*.onnx
+
+# Data
+data/
+
+# OS
+.DS_Store
