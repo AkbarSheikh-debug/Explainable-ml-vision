@@ -6,7 +6,6 @@ A comprehensive web application for training, analyzing, and explaining deep lea
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
